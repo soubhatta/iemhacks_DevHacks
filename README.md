@@ -14,5 +14,7 @@
 
 **PROJECT INSTALLATION SETUP** -
 1.IDE Used - VS CODE
+
 2.Project Deployment Website - Netlify
+
 3.Tech Stacks Used -

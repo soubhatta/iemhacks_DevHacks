@@ -14,7 +14,7 @@
 
 **PROJECT INSTALLATION SETUP** 
 
-1.IDE Used - VS CODE
+1.IDE Used - VS Code
 
 2.Project Deployment Website - Netlify
 

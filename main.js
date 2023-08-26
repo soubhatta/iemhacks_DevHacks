@@ -1,5 +1,5 @@
 /**
-* Template Name: EduTech Concord - v3.1.0
+* Template Name: EduTech Concord
 * Template URL: https://bootstrapmade.com/bizpage-bootstrap-business-template/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/

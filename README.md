@@ -12,7 +12,8 @@
 
 **PROBLEM STATEMENT** - In our modern age society, traditional education systems are often constrained by physical boundaries, limited resource access, and outdated teaching methodologies. These persistent challenges and obstacles hinder the potentiality of learners and educators to fully engage with the learning process and experiences. As technology continues to advance rapidly day by day, there is a critical need to harness its power to revolutionize and elevate the education system and create a dynamic, tech-savvy and innovative learning ecosystem that caters to the diverse needs of learners.
 
-**PROJECT INSTALLATION SETUP** -
+**PROJECT INSTALLATION SETUP** 
+
 1.IDE Used - VS CODE
 
 2.Project Deployment Website - Netlify

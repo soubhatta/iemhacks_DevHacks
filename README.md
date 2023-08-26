@@ -14,8 +14,10 @@
 
 **PROJECT INSTALLATION SETUP** 
 
+**SETUP NAME** - **EduTech Concord**
+
 1.IDE Used - VS Code
 
 2.Project Deployment Website - Netlify
 
-3.Tech Stacks Used -
+3.Tech Stacks Used - HTML, CSS,  Javascript

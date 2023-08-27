@@ -15,3 +15,15 @@
 **PROJECT INSTALLATION SETUP** 
 
 **SETUP NAME** - **EduTech Concord Platform**
+
+1.IDE Used for building code - VS Code Software
+
+2.Project Launch and Deployment Website - Netlify App
+
+3.Tech Stacks Used - Web Developing Technologies like HTML, CSS, Javascript
+
+4.Database Designing to store user data, content, and other relevant information.
+
+5.Content Creation and Management to curate educational content, including courses, lessons, quizzes, and assignments
+
+6.User Support and Training - Provide user support channels and offer training resources and tutorials for users and educators.
